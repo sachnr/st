@@ -7,3 +7,4 @@
 + scrollback
 + font2
 + blinkingcursor
++ anysize
