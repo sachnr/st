@@ -11,3 +11,5 @@
 + clipboard
 + alpha
 + boxdraw
++ desktop entry
+
