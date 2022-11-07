@@ -8,3 +8,5 @@
 + font2
 + blinkingcursor
 + anysize
++ clipboard
++ alpha
