@@ -6,3 +6,4 @@
 + working dir
 + scrollback
 + font2
++ blinkingcursor
