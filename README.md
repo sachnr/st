@@ -10,3 +10,4 @@
 + anysize
 + clipboard
 + alpha
++ boxdraw
