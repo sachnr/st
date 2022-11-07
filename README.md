@@ -15,3 +15,4 @@
 + glyph wide support
 + title parsing fix
 + undercurl
++ w3m images
