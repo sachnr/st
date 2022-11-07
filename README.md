@@ -12,4 +12,4 @@
 + alpha
 + boxdraw
 + desktop entry
-
++ glyph wide support
