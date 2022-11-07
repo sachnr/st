@@ -2,6 +2,7 @@
 
 ## Patches
 
++ xresources
 + xresources with signal reload
 + working dir
 + scrollback
