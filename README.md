@@ -14,3 +14,4 @@
 + desktop entry
 + glyph wide support
 + title parsing fix
++ undercurl
